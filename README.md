@@ -1,3 +1,7 @@
+# Hi there, I'm Rituparna Dobey 👋
+
+## About Me
+
 I am Rituparna Dobey a Python Backend Developer based in Germany. I have a passion for coding, open-source projects, and continuous learning. My goal is to secure a programming job next year.
 
 - 🌱 I’m currently learning Python Backend programming
