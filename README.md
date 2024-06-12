@@ -23,12 +23,11 @@ I am a Python Backend Developer based in Germany. I have a passion for coding, o
 ### [social_network](https://github.com/rituparnadobey-dci/social_network)
 Description of your project. Highlight key features and functionalities.
 
-
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rituparnadobey-dci&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rituparnadobey-dci&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rituparnadobey-dci&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rituparnadobey-dci&layout=compact&theme=radical&include_all_commits=true&count_private=true)
 
 ## Connect with Me
 
