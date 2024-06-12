@@ -26,9 +26,9 @@ Description of your project. Highlight key features and functionalities.
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RituparnaDobey&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rituparnadobey-dci&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RituparnaDobey&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rituparnadobey-dci&layout=compact&theme=radical)
 
 ## Connect with Me
 
